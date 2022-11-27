@@ -1,0 +1,101 @@
+.TopHeader{
+    color:red;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: yellowgreen;
+    text-align: center;
+    box-shadow: 0px 10px 10px black;
+    border-radius: 0px 0px 20px 20px;
+}
+#myBtn {
+    display: none;
+    position: fixed;
+    bottom: 50px;
+    left: 50px;
+    z-index: 99;
+    font-size: 18px;
+    border: none;
+    outline: none;
+    background:linear-gradient(45deg,black,green);
+    color: white;
+    cursor: pointer;
+    padding: 15px;
+    border-radius: 50%;
+    box-shadow: 5px 5px 5px black;
+  }
+body{
+    margin: 0px;
+}
+.btns{
+   text-align: center; 
+   margin: 100px ;
+}
+.btnl{
+ background-color: green;
+ color: aliceblue;
+ padding: 10px 20px;
+ font-size: 30px;
+ margin: 30px;
+ border-radius: 20px;
+}
+#ccard{
+    background-color:orange;
+    color: white;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 0px 10px 10px black;
+}
+#displayt{
+    text-align: center;
+}
+#tabl{
+    text-align: center;
+    width: 50%;
+    margin: 10px;
+    border: 3px solid orange;
+}
+td{
+    border: 2px solid red;
+}
+.gg{
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+#th{
+    background-color: black;
+    color:white;
+    font-size: 20px;
+    padding: 20px;
+}
+.btnt{
+    background-color: rgb(169, 43, 12);
+    color: aliceblue;
+    padding: 10px 20px;
+    font-size: 30px;
+    margin: 30px;
+    border-radius: 20px;
+   }
+   .btnc{
+    background-color: rgb(245, 7, 205);
+    color: aliceblue;
+    padding: 10px 20px;
+    font-size: 30px;
+    margin: 30px;
+    border-radius: 20px;
+   }
+
+.card{
+    width: 95%;
+    margin: 20px;
+    box-shadow: 0px 10px 10px black;
+    border-radius: 20px;
+}
+.cardh{
+    background-color: lightgray;
+    text-align: center;
+    color: green;
+    padding: 10px;
+    border-radius: 20px;
+}
